@@ -1,0 +1,183 @@
+﻿{
+    "tests_requested":  250,
+    "tests_run":  250,
+    "max_failure_rate":  0,
+    "static_failures":  0,
+    "variability_failures":  0,
+    "total_failures":  0,
+    "failure_rate":  0,
+    "pass":  true,
+    "distinct_workout_signatures":  250,
+    "distinct_flirt_lines_available":  172,
+    "distinct_heat_registers_available":  10,
+    "distinct_architectures_available":  11,
+    "distinct_finishers_available":  12,
+    "recent_session_window":  10,
+    "heat_lines_per_workout":  6,
+    "target_pools":  7,
+    "first_5_samples":  [
+                            {
+                                "case":  1,
+                                "target":  "chest",
+                                "duration":  30,
+                                "energy":  "low",
+                                "architecture":  "tempo-focused hypertrophy",
+                                "finisher":  "TRX burnout",
+                                "title":  "Controlled Heat",
+                                "exercises":  [
+                                                  "Incline Dumbbell Press",
+                                                  "Dumbbell Floor Press",
+                                                  "Low-to-High Cable Fly",
+                                                  "Push-Up",
+                                                  "TRX Chest Press"
+                                              ],
+                                "heat_registers":  [
+                                                       "command_heat",
+                                                       "observation_heat",
+                                                       "possessive_coach_heat",
+                                                       "teasing_heat",
+                                                       "low_voice_heat",
+                                                       "pride_heat"
+                                                   ],
+                                "heat_lines":  [
+                                                   "Come here. I want that setup fixed before you touch the weight.",
+                                                   "I can see your grip tighten before you try to quit.",
+                                                   "You bring the body. I bring the standard.",
+                                                   "If you are going to suffer, at least look powerful doing it.",
+                                                   "Keep breathing. I want calm power, not panic.",
+                                                   "You made the weight look handled, not lucky."
+                                               ]
+                            },
+                            {
+                                "case":  2,
+                                "target":  "back",
+                                "duration":  60,
+                                "energy":  "high",
+                                "architecture":  "dumbbell pre-exhaust into compound-equivalent work",
+                                "finisher":  "pump ladder",
+                                "title":  "Sharp Work",
+                                "exercises":  [
+                                                  "Chest-Supported Dumbbell Row",
+                                                  "Pull-Up",
+                                                  "Face Pull",
+                                                  "Half-Kneeling Single-Arm Pulldown",
+                                                  "Band Lat Pulldown"
+                                              ],
+                                "heat_registers":  [
+                                                       "teasing_heat",
+                                                       "pride_heat",
+                                                       "proximity_heat",
+                                                       "debrief_heat",
+                                                       "observation_heat",
+                                                       "command_heat"
+                                                   ],
+                                "heat_lines":  [
+                                                   "You wanted this body. Stop acting surprised by the bill.",
+                                                   "That is the standard now. Congratulations and tough shit.",
+                                                   "Stay in my orbit until the last rep is finished.",
+                                                   "That session left a mark in the log and on you.",
+                                                   "That look on your face is the one I wanted.",
+                                                   "Control the first inch and the rest follows."
+                                               ]
+                            },
+                            {
+                                "case":  3,
+                                "target":  "legs",
+                                "duration":  50,
+                                "energy":  "wiped",
+                                "architecture":  "strength-skill top set plus back-off volume",
+                                "finisher":  "isometric hold ladder",
+                                "title":  "Built Different",
+                                "exercises":  [
+                                                  "Reverse Lunge",
+                                                  "Cable Pull-Through",
+                                                  "Heel-Elevated Goblet Squat",
+                                                  "Wall Sit",
+                                                  "Bulgarian Split Squat"
+                                              ],
+                                "heat_registers":  [
+                                                       "challenge_heat",
+                                                       "debrief_heat",
+                                                       "possessive_coach_heat",
+                                                       "pride_heat",
+                                                       "competitive_heat",
+                                                       "observation_heat"
+                                                   ],
+                                "heat_lines":  [
+                                                   "This is where your body learns who is in charge.",
+                                                   "I am keeping that effort. You can keep the soreness.",
+                                                   "That last inch is mine. Finish it.",
+                                                   "That was clean as hell. I am keeping that one.",
+                                                   "Make progress so obvious I do not have to flirt with potential.",
+                                                   "Your hips stopped drifting. Good. Now keep them honest."
+                                               ]
+                            },
+                            {
+                                "case":  4,
+                                "target":  "shoulders",
+                                "duration":  45,
+                                "energy":  "moderate",
+                                "architecture":  "cable constant-tension work",
+                                "finisher":  "timed density block",
+                                "title":  "Private Standard",
+                                "exercises":  [
+                                                  "TRX Y-Raise",
+                                                  "Prone Incline Y-Raise",
+                                                  "Dumbbell High Pull",
+                                                  "Rear Delt Cable Fly",
+                                                  "Light Dumbbell Cuban Press"
+                                              ],
+                                "heat_registers":  [
+                                                       "debrief_heat",
+                                                       "teasing_heat",
+                                                       "proximity_heat",
+                                                       "observation_heat",
+                                                       "pride_heat",
+                                                       "command_heat"
+                                                   ],
+                                "heat_lines":  [
+                                                   "The log says progress. Your body says it louder.",
+                                                   "Save the attitude. Spend it on the set.",
+                                                   "Keep the rep close, controlled, and impossible to ignore.",
+                                                   "Your body is starting to answer me. Keep listening.",
+                                                   "That set looked good on you.",
+                                                   "Set your feet and wait for my count."
+                                               ]
+                            },
+                            {
+                                "case":  5,
+                                "target":  "arms",
+                                "duration":  40,
+                                "energy":  "wired",
+                                "architecture":  "straight hypertrophy blocks",
+                                "finisher":  "AMRAP with form cap",
+                                "title":  "Tension Tax",
+                                "exercises":  [
+                                                  "Concentration Curl",
+                                                  "Band Curl",
+                                                  "Reverse Curl",
+                                                  "Cross-Body Hammer Curl",
+                                                  "Dumbbell Tricep Kickback"
+                                              ],
+                                "heat_registers":  [
+                                                       "possessive_coach_heat",
+                                                       "proximity_heat",
+                                                       "command_heat",
+                                                       "observation_heat",
+                                                       "teasing_heat",
+                                                       "low_voice_heat"
+                                                   ],
+                                "heat_lines":  [
+                                                   "Your form belongs to me for the next forty-five minutes.",
+                                                   "Work like the space between us just got honest.",
+                                                   "Reset your hips and make the next one worth my time.",
+                                                   "That sweat on you is proof, not decoration.",
+                                                   "Pretty little panic rep. Cute. Now do it correctly.",
+                                                   "That was better. I felt you lock in."
+                                               ]
+                            }
+                        ],
+    "failures":  [
+
+                 ]
+}
